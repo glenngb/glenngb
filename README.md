@@ -1,9 +1,9 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Glenn 🚀 Desarrollador Web Full Stack | Apasionado por el código y la tecnología
 
 
 **glenngb/glenngb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-👋 ¡Hola! Soy Glenn 🚀 Desarrollador Web Full Stack | Apasionado por el código y la tecnología
+
 
 Bienvenido a mi repositorio de GitHub. Aquí encontrarás una combinación de creatividad, lógica y soluciones innovadoras para proyectos de desarrollo web. Mi enfoque principal es construir aplicaciones que no solo funcionen, sino que también brinden una experiencia excepcional al usuario.
 
